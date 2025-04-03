@@ -1,6 +1,6 @@
 {
   "cdnSources": [
-    "https://cdn.jsdelivr.net/gh/patrickgeorge1/GithubCDN/master",
+    "https://cdn.jsdelivr.net/gh/patrickgeorge1/GithubCDN",
     "https://cdn.biblespoken.patrickvitoga.com"
   ],
   "steps": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "hash": "07de219d-1eec-4ca1-85c6-6fb9140317d6",
+      "hash": "4be47b93-3a53-46d4-b1ad-c254a9634b9f",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "hash": "33dd86d6-b20e-4e72-9e22-58a98e0c5506",
+      "hash": "1bf87acf-8d12-4414-be21-dc936ebb0917",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -363,7 +363,7 @@
       ]
     },
     {
-      "hash": "96b50bb6-b5bb-4d9b-94d2-ed51cbc4ddec",
+      "hash": "aca24cc3-1b8c-46a8-a455-9d4c7ab577ac",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -474,7 +474,7 @@
       ]
     },
     {
-      "hash": "b2952977-3998-4cc1-8cb1-ef001e9eea79",
+      "hash": "dffe36f2-84a5-4219-9f37-bd048738df84",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -620,7 +620,7 @@
       ]
     },
     {
-      "hash": "e6ae65ae-a65c-4f23-b07c-3c26af105277",
+      "hash": "640b4084-6ad0-4390-9c04-1f994d7fa758",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -706,7 +706,7 @@
       ]
     },
     {
-      "hash": "4cf31692-ce69-4bcc-a6d4-565bc232ab97",
+      "hash": "e1a849d9-9287-4dd2-a7a1-39bf8bc7b7d3",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -792,7 +792,7 @@
       ]
     },
     {
-      "hash": "7c9680b3-6731-4c3d-908c-af1e8f91c2c6",
+      "hash": "a5f400e6-0077-46be-ae03-85be239881a9",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -863,7 +863,7 @@
       ]
     },
     {
-      "hash": "ada858f6-588e-4c34-94b2-07f00c99a01e",
+      "hash": "4fc14094-6e59-48cc-8522-f54ae4b6dc22",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -899,7 +899,7 @@
       ]
     },
     {
-      "hash": "7fa494b5-c5b2-4881-be07-0a770289f8a0",
+      "hash": "8cc46cf8-58ed-4aa3-af4b-ef8da5058f26",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -935,7 +935,7 @@
       ]
     },
     {
-      "hash": "b70cbfc5-b8bf-4675-ad50-89279631158c",
+      "hash": "571df1b6-e0b6-4a51-9fdb-08430e938f10",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -961,7 +961,7 @@
       ]
     },
     {
-      "hash": "ac1a9e54-71cc-4d52-96a5-b9a96cf55318",
+      "hash": "c16e548e-3272-44a2-ad44-0fea112d899a",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -987,7 +987,7 @@
       ]
     },
     {
-      "hash": "612b3dfc-7d23-43ce-a2ad-2aa01367cedd",
+      "hash": "2c680646-f126-4bcf-b9e2-9b66e54388b6",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1018,7 +1018,7 @@
       ]
     },
     {
-      "hash": "daa26a67-db09-429c-8395-2f75c7dd9781",
+      "hash": "f55ebb2c-536c-4b80-b60d-490ca0120f46",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1039,7 +1039,7 @@
       ]
     },
     {
-      "hash": "ec9b3df6-1432-49b5-9a1c-179bd6e7c11d",
+      "hash": "4793fb89-6a16-4b89-a43e-11e584307da0",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1075,7 +1075,7 @@
       ]
     },
     {
-      "hash": "21d956d4-e799-4ed4-a47f-92b61c993cf2",
+      "hash": "10b4e5c1-7fbe-4b2e-b124-935862ebcec1",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1101,7 +1101,7 @@
       ]
     },
     {
-      "hash": "08fcb682-e438-4cce-ab83-ee00f6f6bdcc",
+      "hash": "0c7786a3-073a-4fb8-9fec-60d940313756",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1122,7 +1122,7 @@
       ]
     },
     {
-      "hash": "66530cd4-4931-432d-a799-9a0e20e96ff9",
+      "hash": "e61e05df-8f98-45ea-bf49-077f9ff36a2d",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1133,7 +1133,7 @@
       ]
     },
     {
-      "hash": "0b394483-f9a9-4bf3-b5f1-55892e11b8cf",
+      "hash": "844e334e-6713-418a-a052-976cf09ceddf",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1204,7 +1204,7 @@
       ]
     },
     {
-      "hash": "d99f2427-0fff-4667-a787-71bd4d0756d2",
+      "hash": "fa7239e0-fb63-4e8e-a8fc-a2908ac00547",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1235,7 +1235,7 @@
       ]
     },
     {
-      "hash": "6c0a42a3-bbe9-4fe6-901f-9fc136ccf364",
+      "hash": "3d92a5b9-242b-43af-964a-e91953d673ff",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1266,7 +1266,7 @@
       ]
     },
     {
-      "hash": "f45d26d4-4e86-4d89-823d-ecf3ef93c535",
+      "hash": "2aa283d4-2bb8-4bdc-b426-4109188d78ef",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1287,7 +1287,7 @@
       ]
     },
     {
-      "hash": "27e126ac-32d8-40c2-82cf-715d92a77083",
+      "hash": "06ca9eb6-2c97-4b13-9893-0c0bfe0c04c9",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1318,7 +1318,7 @@
       ]
     },
     {
-      "hash": "88d92691-c2f0-44f7-9ef6-d34be4741f7c",
+      "hash": "a1fa3857-6e6c-4cc0-a7f4-08dcb3679866",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1329,7 +1329,7 @@
       ]
     },
     {
-      "hash": "718eb9c4-747e-40b3-9028-6bda0aa10d37",
+      "hash": "c50ea536-fd4b-4c14-acbf-5b4d4d1f4bc1",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1340,7 +1340,7 @@
       ]
     },
     {
-      "hash": "4a5b3751-1614-46b5-89f0-cd4859127bfb",
+      "hash": "e838d1e0-ae75-4cd6-a01b-11e74224ba5a",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1351,7 +1351,7 @@
       ]
     },
     {
-      "hash": "abda393c-5283-42ad-a65e-d245b50819ed",
+      "hash": "2c647e6f-66a7-4400-b156-d912836ece9f",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1467,7 +1467,7 @@
       ]
     },
     {
-      "hash": "78eac7e2-4749-4b32-aecf-4ae90356a28d",
+      "hash": "f28419ff-c3b6-4d4b-91e9-e668e3755645",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1723,7 +1723,7 @@
       ]
     },
     {
-      "hash": "4bbf0c68-271c-44ea-899b-535b4e56db99",
+      "hash": "07cbd4da-f2a3-41ea-8f6c-75dad219b50f",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -1929,7 +1929,7 @@
       ]
     },
     {
-      "hash": "46ad4c4b-e8d8-481a-965d-0dfd617065b3",
+      "hash": "2999da58-5e19-40fe-91a6-b4e868f6516d",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -2070,7 +2070,7 @@
       ]
     },
     {
-      "hash": "71703ff4-b16f-4265-9f9e-cb5a5cc1a55c",
+      "hash": "f45e4ffe-0d38-407d-a977-2f6a93765fb7",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -2256,7 +2256,7 @@
       ]
     },
     {
-      "hash": "e04535e0-5b65-4317-9d3d-59be29be078c",
+      "hash": "bab32004-058c-4834-a7e1-1be31dd9ade2",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -2432,7 +2432,7 @@
       ]
     },
     {
-      "hash": "24cb277a-7529-498b-9a00-ad0592e8c32d",
+      "hash": "8c97c6ec-d01f-448e-b82e-b6494e351310",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -2558,7 +2558,7 @@
       ]
     },
     {
-      "hash": "5f5b2c38-56fd-4be5-8d96-196bb009f28a",
+      "hash": "02deabb7-99bb-43da-99e7-6a3631530b63",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -2669,7 +2669,7 @@
       ]
     },
     {
-      "hash": "4bf2585f-c9cf-43be-b641-cc1cecad52b0",
+      "hash": "881f400c-af9a-4324-9c02-a105806e8d62",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -2695,7 +2695,7 @@
       ]
     },
     {
-      "hash": "715939f8-9169-4b17-a51d-7da69945ac5e",
+      "hash": "4339d8ba-4d0a-4764-8b15-e1551c994e22",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -2856,7 +2856,7 @@
       ]
     },
     {
-      "hash": "bf968004-dc02-4582-a334-694ede64838c",
+      "hash": "2f188a53-4cda-471b-8e17-2ae5c9bd0bdc",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -2982,7 +2982,7 @@
       ]
     },
     {
-      "hash": "ad996499-0f01-4f87-aba7-bb428b4fff26",
+      "hash": "6c222fb4-ae2a-40b8-a734-9ea8c673bef3",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -3098,7 +3098,7 @@
       ]
     },
     {
-      "hash": "43742a0b-7999-462b-9cd2-e3c69e3b6061",
+      "hash": "eb6da927-d124-450a-aa79-8451f1d69865",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -3229,7 +3229,7 @@
       ]
     },
     {
-      "hash": "62e20a25-4d31-430d-8e50-953ffdf442c5",
+      "hash": "ba361e14-96cd-467d-8032-c59bf97a318a",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -3380,7 +3380,7 @@
       ]
     },
     {
-      "hash": "3d5b51a5-f9b9-4fef-9ad8-965511b7571c",
+      "hash": "fd2e5c2a-98a9-409c-bdc2-4513e5bece42",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -3566,7 +3566,7 @@
       ]
     },
     {
-      "hash": "4e216aa8-fc2c-44fa-ab33-f78bf34c4373",
+      "hash": "770a2c29-5e5f-44b3-80ba-20aeed583eb7",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -3622,7 +3622,7 @@
       ]
     },
     {
-      "hash": "39fedf2c-86f6-4cca-9480-a89e3fb0c588",
+      "hash": "77a6c634-c9f2-4fa4-934a-9ef556a82606",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -3693,7 +3693,7 @@
       ]
     },
     {
-      "hash": "db0ce6fb-16f9-4557-beff-69da0216ae54",
+      "hash": "a7f3f09e-4e50-4dd4-bc26-164921fcc339",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -3749,7 +3749,7 @@
       ]
     },
     {
-      "hash": "52868846-f71a-4b3c-ad94-8fa6f46edf8e",
+      "hash": "5a11e1e8-ed9e-4295-9721-ef8f1817a317",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -3965,7 +3965,7 @@
       ]
     },
     {
-      "hash": "099fd07d-5faa-4a98-ae51-ae367e4b5cd6",
+      "hash": "898ab049-d766-4ae9-973d-cea9f510b90c",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -4726,7 +4726,7 @@
       ]
     },
     {
-      "hash": "2eedb2d5-2306-4f84-b90a-968eef758a91",
+      "hash": "e68d4ef2-93e9-495f-b49c-c8c620dec447",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -4887,7 +4887,7 @@
       ]
     },
     {
-      "hash": "36148b3e-efe3-47c0-b3e3-341562b4d548",
+      "hash": "3da5ac69-e4ac-468c-b0a6-9a53dce3bbbf",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -4953,7 +4953,7 @@
       ]
     },
     {
-      "hash": "376e22d4-4c56-4e91-9471-ae07d2af8bfc",
+      "hash": "e17dd2cc-5279-456a-b2da-c972472e176a",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -4999,7 +4999,7 @@
       ]
     },
     {
-      "hash": "dfae02d3-abdf-4ea2-adf6-c8ea2c27a1bc",
+      "hash": "b1cc050e-48f5-4872-b489-c80bb4f05045",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -5335,7 +5335,7 @@
       ]
     },
     {
-      "hash": "eb3a1bfc-be0f-4c33-96ba-36e84418f732",
+      "hash": "ee96f63c-813f-4b34-b0c4-9277c159e5c6",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -5601,7 +5601,7 @@
       ]
     },
     {
-      "hash": "3f94ae67-8d50-45e7-b815-b1270afe680d",
+      "hash": "4666acd6-fde7-4020-b3c6-49e797fae156",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -5632,7 +5632,7 @@
       ]
     },
     {
-      "hash": "71da1d1c-4374-4c4a-83f9-a9f53f1d3075",
+      "hash": "e2cd910a-a6fd-4ba7-9323-794b7c51d19f",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -5878,7 +5878,7 @@
       ]
     },
     {
-      "hash": "2176829b-daef-487c-9fa0-c78619d614e9",
+      "hash": "8eb8e04a-3ef5-4dd9-8b31-ea87573cad75",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -5944,7 +5944,7 @@
       ]
     },
     {
-      "hash": "f875aa28-5c81-4754-8349-1ea4229bff6b",
+      "hash": "2752980b-7da4-4cc6-85a2-cebe3409921b",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6020,7 +6020,7 @@
       ]
     },
     {
-      "hash": "a93986c7-cd62-4fd7-b4ec-f0e78ceadc0b",
+      "hash": "312d2ce8-cdf8-409e-a9d3-df4453a5078e",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6071,7 +6071,7 @@
       ]
     },
     {
-      "hash": "f37aa5cd-9a78-4e0c-a725-a004510ab710",
+      "hash": "796d8e4a-d9fd-4bef-8fd5-742bc591e386",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6112,7 +6112,7 @@
       ]
     },
     {
-      "hash": "2041406a-52bf-4667-9680-3e5de881db66",
+      "hash": "93d63f80-184a-4746-b3a8-dead09b496b5",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6138,7 +6138,7 @@
       ]
     },
     {
-      "hash": "407e883c-2916-4e6d-bac3-81edb726daeb",
+      "hash": "45823f6d-e3ee-4782-8e6f-177e6142de94",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6149,7 +6149,7 @@
       ]
     },
     {
-      "hash": "9ad97054-00f6-4fe2-93a3-428ef7d86b6c",
+      "hash": "4cd06a82-c430-4c23-8eea-3e53dd061102",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6175,7 +6175,7 @@
       ]
     },
     {
-      "hash": "69d0c94f-f7fb-493d-8d83-a5017809fae5",
+      "hash": "c69abd2a-a4c4-4d68-b81c-75787409b265",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6196,7 +6196,7 @@
       ]
     },
     {
-      "hash": "38ac6944-e44a-449f-91fe-ddb7756bbe37",
+      "hash": "28be870e-18f2-4cee-9e87-90f9f00e094d",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6217,7 +6217,7 @@
       ]
     },
     {
-      "hash": "8fa29788-9f20-4cc8-9c66-7a4c26fdb8fd",
+      "hash": "4ce03f40-d502-4b1d-a4b4-ca553b67accc",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6238,7 +6238,7 @@
       ]
     },
     {
-      "hash": "c62c7530-622b-4fe6-b7b0-7937d73d3c56",
+      "hash": "4e4f9723-bdc9-4949-890b-ba5725e9a9ff",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6254,7 +6254,7 @@
       ]
     },
     {
-      "hash": "1664074a-f13f-445d-b0c8-9a191ed4729b",
+      "hash": "6fac3fa0-ddae-4fc3-8d98-70881d002328",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6330,7 +6330,7 @@
       ]
     },
     {
-      "hash": "c51c11c0-0c48-4988-9ba6-31a0cff7b733",
+      "hash": "f08007b8-b0c6-4f5a-b45e-ddbb1e7171f8",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6351,7 +6351,7 @@
       ]
     },
     {
-      "hash": "8e49a285-a50a-4776-9950-6bc8a5515501",
+      "hash": "860b18c0-79be-46ff-b3b2-7f6b0d669df1",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6427,7 +6427,7 @@
       ]
     },
     {
-      "hash": "9825b05a-15f3-4709-a99c-330ec23504a1",
+      "hash": "5d60e8b3-3ff2-4814-acc4-da68023577cc",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6513,7 +6513,7 @@
       ]
     },
     {
-      "hash": "fefa5a45-d80b-4ef6-9afd-8f6631345a95",
+      "hash": "9dcae8c3-659b-43f0-a50c-4b714a8b5891",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6544,7 +6544,7 @@
       ]
     },
     {
-      "hash": "01036cab-ac03-4bbe-a3ce-13484b27a1d9",
+      "hash": "6bbc6e37-f0a6-4085-a0c4-805184d71a13",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6555,7 +6555,7 @@
       ]
     },
     {
-      "hash": "d294ed66-2bc8-4951-b1a5-0d54c4eb1e7b",
+      "hash": "6cfc06bd-fd4e-4d3d-a334-f0977a223e6a",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6566,7 +6566,7 @@
       ]
     },
     {
-      "hash": "d5f4f7b1-eb0d-4a7d-980f-165f21e4a5a5",
+      "hash": "c67bf100-e9a9-4459-9f06-67069d5656da",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6617,7 +6617,7 @@
       ]
     },
     {
-      "hash": "461f3f0b-ad7b-4efe-add9-d07b02bdd7a6",
+      "hash": "3e898509-9cd6-4d70-9b78-46698b3f1110",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6718,7 +6718,7 @@
       ]
     },
     {
-      "hash": "33f12d80-4559-4e18-a41b-ed02efa6e09d",
+      "hash": "76038874-7777-47d2-aff8-94c40af997a3",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6979,7 +6979,7 @@
       ]
     },
     {
-      "hash": "a5c5d6b8-fadb-4f0b-86e6-b3bb7ad28744",
+      "hash": "59850d87-f8d7-4510-9de0-138d335e3c29",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -6990,7 +6990,7 @@
       ]
     },
     {
-      "hash": "154f70b2-3d0d-4a43-b4cb-e83abba953c3",
+      "hash": "f7e4efe3-bbd3-460d-a674-20a72ece5ba7",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -7001,7 +7001,7 @@
       ]
     },
     {
-      "hash": "99cb34e7-48da-468b-92b7-95923a31703e",
+      "hash": "444c6bb4-6a16-4bd6-8429-f6d2471ec418",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -7087,7 +7087,7 @@
       ]
     },
     {
-      "hash": "d09d1ea7-316a-41fc-962d-71a96e827a53",
+      "hash": "440c69e7-cc8d-42f8-b7a2-30d6acd2ebbf",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -7168,7 +7168,7 @@
       ]
     },
     {
-      "hash": "e41817b3-dcdb-4d24-a81f-f9ae8abead8f",
+      "hash": "2517c322-bc91-46b0-9df1-d3677cd2a95b",
       "referenceCategory": "Network",
       "paths": [
         {
@@ -7209,7 +7209,7 @@
       ]
     },
     {
-      "hash": "7a5391ce-1e8f-4961-94c9-172bdcaeb806",
+      "hash": "719b29fb-34dc-41b2-98ea-f5b2c4e380ee",
       "referenceCategory": "Network",
       "paths": [
         {

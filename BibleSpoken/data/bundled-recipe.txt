@@ -1,6 +1,6 @@
 {
   "cdnSources": [
-    "https://cdn.jsdelivr.net/gh/patrickgeorge1/GithubCDN/master",
+    "https://cdn.jsdelivr.net/gh/patrickgeorge1/GithubCDN",
     "https://cdn.biblespoken.patrickvitoga.com"
   ],
   "steps": [
