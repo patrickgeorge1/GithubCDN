@@ -1,0 +1,25 @@
+{
+  "testament": "VT",
+  "book": "1-Paralipomena",
+  "chaptersProcessed": 29,
+  "chaptersWithText": 29,
+  "chaptersWithoutText": 0,
+  "failures": [],
+  "recipes": {
+    "BibleSpoken/data/recipe.txt": {
+      "entriesTouched": 29,
+      "entriesWithText": 29,
+      "entriesWithoutText": 0
+    },
+    "BibleSpoken/data/recipe-not-cached.txt": {
+      "entriesTouched": 29,
+      "entriesWithText": 29,
+      "entriesWithoutText": 0
+    },
+    "BibleSpoken/data/bundled-recipe.txt": {
+      "entriesTouched": 0,
+      "entriesWithText": 0,
+      "entriesWithoutText": 0
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "testament": "VT",
+  "book": "Leviticul",
+  "chaptersProcessed": 27,
+  "chaptersWithText": 27,
+  "chaptersWithoutText": 0,
+  "failures": [],
+  "recipes": {
+    "BibleSpoken/data/recipe.txt": {
+      "entriesTouched": 27,
+      "entriesWithText": 27,
+      "entriesWithoutText": 0
+    },
+    "BibleSpoken/data/recipe-not-cached.txt": {
+      "entriesTouched": 27,
+      "entriesWithText": 27,
+      "entriesWithoutText": 0
+    },
+    "BibleSpoken/data/bundled-recipe.txt": {
+      "entriesTouched": 0,
+      "entriesWithText": 0,
+      "entriesWithoutText": 0
+    }
+  }
+}

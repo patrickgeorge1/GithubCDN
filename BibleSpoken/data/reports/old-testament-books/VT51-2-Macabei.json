@@ -1,0 +1,25 @@
+{
+  "testament": "VT",
+  "book": "2-Macabei",
+  "chaptersProcessed": 15,
+  "chaptersWithText": 15,
+  "chaptersWithoutText": 0,
+  "failures": [],
+  "recipes": {
+    "BibleSpoken/data/recipe.txt": {
+      "entriesTouched": 15,
+      "entriesWithText": 15,
+      "entriesWithoutText": 0
+    },
+    "BibleSpoken/data/recipe-not-cached.txt": {
+      "entriesTouched": 15,
+      "entriesWithText": 15,
+      "entriesWithoutText": 0
+    },
+    "BibleSpoken/data/bundled-recipe.txt": {
+      "entriesTouched": 0,
+      "entriesWithText": 0,
+      "entriesWithoutText": 0
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "book": "Iuda",
+  "chaptersProcessed": 1,
+  "chaptersWithText": 1,
+  "chaptersWithoutText": 0,
+  "failures": [],
+  "recipes": {
+    "BibleSpoken/data/recipe.txt": {
+      "entriesTouched": 1,
+      "entriesWithText": 1,
+      "entriesWithoutText": 0
+    },
+    "BibleSpoken/data/recipe-not-cached.txt": {
+      "entriesTouched": 1,
+      "entriesWithText": 1,
+      "entriesWithoutText": 0
+    },
+    "BibleSpoken/data/bundled-recipe.txt": {
+      "entriesTouched": 0,
+      "entriesWithText": 0,
+      "entriesWithoutText": 0
+    }
+  }
+}

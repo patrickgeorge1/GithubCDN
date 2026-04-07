@@ -1,0 +1,25 @@
+{
+  "testament": "VT",
+  "book": "Sofonie",
+  "chaptersProcessed": 3,
+  "chaptersWithText": 3,
+  "chaptersWithoutText": 0,
+  "failures": [],
+  "recipes": {
+    "BibleSpoken/data/recipe.txt": {
+      "entriesTouched": 3,
+      "entriesWithText": 3,
+      "entriesWithoutText": 0
+    },
+    "BibleSpoken/data/recipe-not-cached.txt": {
+      "entriesTouched": 3,
+      "entriesWithText": 3,
+      "entriesWithoutText": 0
+    },
+    "BibleSpoken/data/bundled-recipe.txt": {
+      "entriesTouched": 0,
+      "entriesWithText": 0,
+      "entriesWithoutText": 0
+    }
+  }
+}
