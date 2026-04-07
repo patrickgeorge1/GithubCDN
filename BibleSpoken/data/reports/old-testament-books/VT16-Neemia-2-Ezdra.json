@@ -1,0 +1,25 @@
+{
+  "testament": "VT",
+  "book": "Neemia-2-Ezdra",
+  "chaptersProcessed": 13,
+  "chaptersWithText": 13,
+  "chaptersWithoutText": 0,
+  "failures": [],
+  "recipes": {
+    "BibleSpoken/data/recipe.txt": {
+      "entriesTouched": 13,
+      "entriesWithText": 13,
+      "entriesWithoutText": 0
+    },
+    "BibleSpoken/data/recipe-not-cached.txt": {
+      "entriesTouched": 13,
+      "entriesWithText": 13,
+      "entriesWithoutText": 0
+    },
+    "BibleSpoken/data/bundled-recipe.txt": {
+      "entriesTouched": 0,
+      "entriesWithText": 0,
+      "entriesWithoutText": 0
+    }
+  }
+}

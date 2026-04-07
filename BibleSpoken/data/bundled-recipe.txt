@@ -11,142 +11,198 @@
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--01---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--01---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 223
+          "durationSeconds": 223,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--01---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--02---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--02---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 229
+          "durationSeconds": 229,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--02---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--03---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--03---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 157
+          "durationSeconds": 157,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--03---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--04---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--04---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 223
+          "durationSeconds": 223,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--04---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--05---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--05---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 426
+          "durationSeconds": 426,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--05---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--06---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--06---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 318
+          "durationSeconds": 318,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--06---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--07---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--07---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 244
+          "durationSeconds": 244,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--07---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--08---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--08---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 293
+          "durationSeconds": 293,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--08---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--09---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--09---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 327
+          "durationSeconds": 327,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--09---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--10---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--10---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 367
+          "durationSeconds": 367,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--10---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--11---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--11---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 261
+          "durationSeconds": 261,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--11---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--12---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--12---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 417
+          "durationSeconds": 417,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--12---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--13---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--13---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 494
+          "durationSeconds": 494,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--13---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--14---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--14---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 273
+          "durationSeconds": 273,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--14---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--15---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--15---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 302
+          "durationSeconds": 302,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--15---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--16---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--16---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 250
+          "durationSeconds": 250,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--16---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--17---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--17---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 263
+          "durationSeconds": 263,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--17---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--18---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--18---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 325
+          "durationSeconds": 325,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--18---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--19---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--19---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 284
+          "durationSeconds": 284,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--19---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--20---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--20---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 280
+          "durationSeconds": 280,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--20---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--21---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--21---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 415
+          "durationSeconds": 415,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--21---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--22---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--22---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 317
+          "durationSeconds": 317,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--22---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--23---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--23---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 325
+          "durationSeconds": 325,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--23---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--24---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--24---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 354
+          "durationSeconds": 354,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--24---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--25---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--25---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 352
+          "durationSeconds": 352,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--25---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--26---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--26---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 593
+          "durationSeconds": 593,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--26---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--27---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--27---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 505
+          "durationSeconds": 505,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--27---Biblia-Ortodoxa-2020.md"
         },
         {
           "referencePath": "data/Noul-Testament/Matei/NT01-Matei--28---Biblia-Ortodoxa-2020.mp3",
           "phonePath": "data/Noul-Testament/Matei/NT01-Matei--28---Biblia-Ortodoxa-2020.mp3",
-          "durationSeconds": 162
+          "durationSeconds": 162,
+          "hasText": true,
+          "textPath": "data/Noul-Testament/Matei/NT01-Matei--28---Biblia-Ortodoxa-2020.md"
         }
       ]
     }

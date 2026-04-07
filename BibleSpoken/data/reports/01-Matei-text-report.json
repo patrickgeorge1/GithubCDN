@@ -1,0 +1,24 @@
+{
+  "book": "Matei",
+  "chaptersProcessed": 28,
+  "chaptersWithText": 28,
+  "chaptersWithoutText": 0,
+  "failures": [],
+  "recipes": {
+    "BibleSpoken/data/recipe.txt": {
+      "entriesTouched": 28,
+      "entriesWithText": 28,
+      "entriesWithoutText": 0
+    },
+    "BibleSpoken/data/recipe-not-cached.txt": {
+      "entriesTouched": 28,
+      "entriesWithText": 28,
+      "entriesWithoutText": 0
+    },
+    "BibleSpoken/data/bundled-recipe.txt": {
+      "entriesTouched": 28,
+      "entriesWithText": 28,
+      "entriesWithoutText": 0
+    }
+  }
+}
