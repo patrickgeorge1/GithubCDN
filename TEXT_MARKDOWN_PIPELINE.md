@@ -8,6 +8,14 @@ This document explains how to generate chapter markdown (`.md`) files, update re
 - Data root: `BibleSpoken/data`
 - Script: `scripts/generate_matei_markdown.py` (generalized for `NT` and `VT`)
 
+## Backward Compatibility Guardrails (Required)
+- Keep both recipe entry files during compatibility windows:
+  - `BibleSpoken/data/recipe-not-cached.txt` (legacy app versions)
+  - `BibleSpoken/data/recipe-not-cached-v2.txt` (newer app versions)
+- Keep those two files equivalent unless a planned migration explicitly says otherwise.
+- Do not change existing recipe step hashes for metadata-only updates.
+- Keep both recipe delivery sources aligned (`jsdelivr` and custom CDN).
+
 ## What The Script Does
 For one selected book:
 1. Reads chapter `.mp3` files in the book folder.
@@ -107,9 +115,8 @@ Current app sync logic applies `PathMapping.referencePath` files only.
 `hasText` is recipe metadata and markdown path is derived from the matching audio path (`.mp3 -> .md`).
 
 ## Reports
-Keep these artifacts in repo after runs:
-- per-book reports
-- one batch summary report with:
-  - books total/succeeded/failed
-  - chapter totals
-  - failure list with errors
+Reports are generation artifacts for validation and troubleshooting.
+
+Rule:
+- Do not commit reports to `BibleSpoken/data/` in normal release flow.
+- If reports are needed temporarily, keep them local or clean them before publish.
