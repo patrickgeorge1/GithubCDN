@@ -1,7 +1,7 @@
 # Text Markdown Pipeline (NT/OT)
 
 ## Purpose
-This document explains how to generate chapter markdown (`.md`) files, update recipe text metadata (`hasText`, `textPath`), validate integrity, and keep app bundled assets aligned.
+This document explains how to generate chapter markdown (`.md`) files, update recipe text metadata (`hasText`), validate integrity, and keep app bundled assets aligned.
 
 ## Scope
 - Repo: `GithubCDN`
@@ -15,7 +15,7 @@ For one selected book:
 3. Generates sibling `.md` files next to each `.mp3`.
 4. Updates recipe path metadata for the matching book:
    - `BibleSpoken/data/recipe.txt`
-   - `BibleSpoken/data/recipe-not-cached.txt`
+   - `BibleSpoken/data/recipe-not-cached-v2.txt`
    - `BibleSpoken/data/bundled-recipe.txt` (only entries present there)
 5. Writes a per-book JSON report.
 
@@ -75,7 +75,7 @@ import json
 from pathlib import Path
 for f in [
   "BibleSpoken/data/recipe.txt",
-  "BibleSpoken/data/recipe-not-cached.txt",
+  "BibleSpoken/data/recipe-not-cached-v2.txt",
   "BibleSpoken/data/bundled-recipe.txt",
 ]:
   d=json.loads(Path(f).read_text(encoding="utf-8"))
@@ -87,8 +87,7 @@ for f in [
       if rp.endswith(".mp3"):
         total+=1
         pp=p.get("phonePath","")
-        expected=pp[:-4]+".md" if pp.endswith(".mp3") else ""
-        if p.get("hasText") is True and p.get("textPath","")==expected:
+        if p.get("hasText") is True:
           valid+=1
   print(f, {"totalMp3Entries": total, "validTextMetadata": valid})
 PY
@@ -105,7 +104,7 @@ If bundled content is expected in the app (`BibleSpoken` repo), sync at least:
 
 ## Known Runtime Detail
 Current app sync logic applies `PathMapping.referencePath` files only.  
-`hasText` and `textPath` are recipe metadata fields and are not yet auto-downloaded/copied from `textPath` by `DataProvider`.
+`hasText` is recipe metadata and markdown path is derived from the matching audio path (`.mp3 -> .md`).
 
 ## Reports
 Keep these artifacts in repo after runs:
@@ -114,4 +113,3 @@ Keep these artifacts in repo after runs:
   - books total/succeeded/failed
   - chapter totals
   - failure list with errors
-

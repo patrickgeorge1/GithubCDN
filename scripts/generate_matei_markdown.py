@@ -14,7 +14,7 @@ DEFAULT_BOOK_DIR = "BibleSpoken/data/Noul-Testament/Matei"
 DEFAULT_TESTAMENT = "NT"
 RECIPE_FILES = [
     "BibleSpoken/data/recipe.txt",
-    "BibleSpoken/data/recipe-not-cached.txt",
+    "BibleSpoken/data/recipe-not-cached-v2.txt",
     "BibleSpoken/data/bundled-recipe.txt",
 ]
 
@@ -202,17 +202,13 @@ def update_recipe_file(
     for step in recipe.get("steps", []):
         for path_mapping in step.get("paths", []):
             reference_path = path_mapping.get("referencePath", "")
-            phone_path = path_mapping.get("phonePath", "")
 
             if f"/{testament_folder}/{book_name}/" not in reference_path or not reference_path.endswith(".mp3"):
                 continue
 
             chapter = parse_chapter_from_filename(os.path.basename(reference_path))
             has_text = bool(chapter_success.get(chapter, False))
-            text_path = md_path_for_mp3_path(phone_path)
-
             path_mapping["hasText"] = has_text
-            path_mapping["textPath"] = text_path
 
             touched += 1
             if has_text:
